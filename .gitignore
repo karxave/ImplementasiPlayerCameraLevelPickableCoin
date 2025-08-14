@@ -1,0 +1,6 @@
+GameHospitCreep/Library/*
+GameHospitCreep/Logs/*
+GameHospitCreep/Temp/*
+
+.vsconfig
+*.sln
